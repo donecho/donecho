@@ -1,80 +1,76 @@
-<h1 align="center">
-  Hi 👋, I'm Zin Phyo Thant
-</h1>
+<h1 align="center">Hi there, I'm Zin Phyo Thant 👋</h1>
 
-<h3 align="center">
-  🚀 Frontend Developer | React Specialist | Next.js (Learning)
-</h3>
-
-<p align="center">
-  <a href="https://github.com/Zin-Phyo-Thant">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Engineer;React+%7C+Next.js+%7C+Tailwind;State+Management+Expert;Building+Scalable+Web+Apps" />
-  </a>
-</p>
+<h3 align="center">🚀 Software Developer | Frontend Specialist | Full-Stack Enthusiast</h3>
 
 ---
 
-## 🧠 About Me
+## 👨‍💻 About Me
 
-- 💻 Frontend Engineer focused on scalable architecture
-- ⚡ Strong in React ecosystem (Zustand, Redux, Context API)
-- 🎯 Passionate about UI/UX & Performance Optimization
-- 🌱 Currently mastering Next.js & Advanced Patterns
-- 🌍 Based in Thailand
+A highly motivated and detail-oriented Software Developer with a strong foundation in **Web Development, Network Security, DevOps, Data Analytics**. Passionate about building scalable applications and continuously learning emerging technologies.
 
+- 🎓 Education: B.Sc (Hons) Computing Program  
+- 📍 Location: Thailand  
+- 💼 Current Role: Software Developer  
+- 🔭 Interests: Web Development, Network Security, DevOps  
+ 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Technical Skills
 
 ### 🚀 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+React • Next.js(Basic) • Bootstrap • Tailwind CSS • HTML5 • CSS3 • JavaScript • TypeScript
 
-### 🧩 Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+### ⚙️ Backend
+Node.js • Express.js • Python • Flask • PHP • Java
 
-### 🗄 Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+### 🗄️ Databases
+MongoDB • MySQL • PostgreSQL
+
+### 🔧 Tools & Technologies
+Git • GitHub • Bitbucket • TensorFlow • Docker (Basic)
 
 ---
 
-## 📊 GitHub Analytics
+## 💼 Work Experience
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zin-Phyo-Thant&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zin-Phyo-Thant&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+**Junior System Engineer**  
+Cube Company
+
+**Freelance Developer**  
+---
+
+## 🎯 Key Projects
+
+### 🔹Tripadvisor 
+University project developed using Python, Flask, Tailwind CSS, and SQLAlchemy. Features include order management, cart functionality, and order history.
+
+### 🔹Library-System
+Full-stack application built with React, Node.js, Express, and MongoDB. Includes secure authentication, appointment scheduling, and image handling with Multer.
+
+### 🔹 POS System
+Point of Sale system with user, product, voucher, and sales management. Built with React, Node.js, Express, and PostgreSQL.
+
+### 🔹 Pizza Ordering System
+Point of Sale system with user, product, voucher, and sales management. Built with Vue, Laravel, PHP and MySQL.
+
+## 🔥 Strengths
+
+✨ Ethical & Professional Work Approach  
+📊 Strong Reporting & Documentation Skills  
+🤝 Team Leadership & Communication  
+🔧 Analytical Problem-Solving  
+💪 Highly Committed & Hardworking  
+🔄 Adaptable & Fast Learner  
 
 ---
 
-## 🔥 Contribution Graph
+## 📫 Contact Me
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zin-Phyo-Thant&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Zin-Phyo-Thant/Zin-Phyo-Thant/output/github-contribution-grid-snake.svg" />
-</p>
+📧 Email: zinphyot300103@gmail.com  
+📱 Phone: 960457695  
+🌐 Portfolio: https://dev-personal-portfolio-zin.vercel.app/  
+💼 LinkedIn: (https://www.linkedin.com/in/zin-phyo-thant-99987b349/)
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/donecho">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-⭐️ Crafted with passion by Zin Phyo Thant
+⭐️ Passionate about leveraging technology to build innovative solutions and contribute to impactful projects.
